@@ -1,7 +1,7 @@
 package com.kimzing.utils.coordinate;
 
 /**
- * 经纬度相关的阿一些操作.
+ * 经纬度相关的一些操作.
  *
  * @author KimZing - kimzing@163.com
  * @since 2018-08-07 02:02
